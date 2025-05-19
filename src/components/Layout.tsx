@@ -1,5 +1,4 @@
 import { Navbar } from "./elements/Navbar.tsx";
-import { Footer } from "./elements/Footer.tsx";
 import { useEffect } from "react";
 
 interface LayoutProps {
